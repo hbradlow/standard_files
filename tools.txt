@@ -1,0 +1,16 @@
+#package managers
+brew: http://mxcl.github.com/homebrew/
+
+#git
+hub: https://github.com/defunkt/hub
+
+#terminal
+tmux: http://tmux.sourceforge.net/
+iterm2: http://tmux.sourceforge.net/
+zsh: http://www.zsh.org/
+oh-my-zsh: https://github.com/robbyrussell/oh-my-zsh
+autojump: https://github.com/joelthelion/autojump
+
+#vim
+vundle: https://github.com/gmarik/vundle
+control-p: https://github.com/kien/ctrlp.vim
