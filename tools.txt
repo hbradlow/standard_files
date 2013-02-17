@@ -3,6 +3,8 @@ brew: http://mxcl.github.com/homebrew/
 
 #git
 hub: https://github.com/defunkt/hub
+gitflow: https://github.com/nvie/gitflow
+legit: http://www.git-legit.org/
 
 #terminal
 tmux: http://tmux.sourceforge.net/
